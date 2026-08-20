@@ -3,6 +3,17 @@
     <channel>
         <title>Ping</title>
         <item>
+            <title>2.19.5</title>
+            <pubDate>Thu, 20 Aug 2026 17:26:44 +0700</pubDate>
+            <sparkle:version>2.19.5</sparkle:version>
+            <sparkle:shortVersionString>2.19.5</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<h3>Sửa lỗi</h3>
+<p>Thanh cuộn ở các tab vẫn còn khung nền của hệ thống. Giờ mọi tab đều là thanh cuộn nổi, không khung, tự ẩn khi ngừng cuộn.</p>
+]]></description>
+            <enclosure url="https://github.com/hnaht95/ping-dist/releases/download/v2.19.5/Ping-2.19.5.zip" length="2290815" type="application/octet-stream" sparkle:edSignature="ZpZrFh10uGbWLuM1HJQdzQ3xxAaYzTteyogToWEQRDQ4CgGLh5bCjCLoyxGvEJFui4NTKwv9ZLYN/PHnx7S5CA=="/>
+        </item>
+        <item>
             <title>2.19.4</title>
             <pubDate>Thu, 20 Aug 2026 17:20:45 +0700</pubDate>
             <sparkle:version>2.19.4</sparkle:version>
@@ -26,17 +37,6 @@
 <p>Bỏ mục "Gửi thông báo thử" khỏi menu chuột phải. Nút đó vẫn còn ở tab Cài đặt, cạnh dòng trạng thái quyền thông báo.</p>
 ]]></description>
             <enclosure url="https://github.com/hnaht95/ping-dist/releases/download/v2.19.3/Ping-2.19.3.zip" length="2300104" type="application/octet-stream" sparkle:edSignature="nY459396pa43nxPD6thCLRQ7RoOqzRGYqqdzNP/+4myPBMbaq1LCvAZZM3aSyBkP7x76KoviGN3V9dapnBKmBw=="/>
-        </item>
-        <item>
-            <title>2.19.2</title>
-            <pubDate>Thu, 20 Aug 2026 17:09:02 +0700</pubDate>
-            <sparkle:version>2.19.2</sparkle:version>
-            <sparkle:shortVersionString>2.19.2</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<h3>Sửa lỗi</h3>
-<p>Ba kiểu lịch cuối tuần trong menu chuột phải bị tích được cả ba cùng lúc. Giờ chọn một cái thì hai cái kia tắt theo.</p>
-]]></description>
-            <enclosure url="https://github.com/hnaht95/ping-dist/releases/download/v2.19.2/Ping-2.19.2.zip" length="2301249" type="application/octet-stream" sparkle:edSignature="78DVn7dhZ5LAxWJ8QzFMcau9qPn2WQdTWW0kDQyOfPGMBicvimWGJ0KHPkptVuRqu/bS9kiYiGnrVxLQTE2MCQ=="/>
         </item>
     </channel>
 </rss>
