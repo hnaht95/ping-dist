@@ -3,6 +3,17 @@
     <channel>
         <title>Ping</title>
         <item>
+            <title>2.20.0</title>
+            <pubDate>Thu, 20 Aug 2026 17:41:48 +0700</pubDate>
+            <sparkle:version>2.20.0</sparkle:version>
+            <sparkle:shortVersionString>2.20.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<h3>Cách tuần nói rõ nhịp</h3>
+<p>Menu chuột phải giờ có hai dòng: "Cách tuần — ngày này nghỉ" và "Cách tuần — ngày này đi làm". Trước đây chỉ có một dòng và nó luôn lấy hôm đang bấm làm ngày đi làm mà không nói ra, nên muốn nhịp ngược lại phải mò sang tuần khác.</p>
+]]></description>
+            <enclosure url="https://github.com/hnaht95/ping-dist/releases/download/v2.20.0/Ping-2.20.0.zip" length="2313740" type="application/octet-stream" sparkle:edSignature="0Rd6ikcQGtbdi5H6+jpG0K3aBQMJ9eTVAG3TNrkkdVDmn+3m/JPOxcI+t4KCrWbtNfIr5/iujNADgvoNZdLgAQ=="/>
+        </item>
+        <item>
             <title>2.19.6</title>
             <pubDate>Thu, 20 Aug 2026 17:37:14 +0700</pubDate>
             <sparkle:version>2.19.6</sparkle:version>
@@ -23,20 +34,6 @@
 <p>Thanh cuộn ở các tab vẫn còn khung nền của hệ thống. Giờ mọi tab đều là thanh cuộn nổi, không khung, tự ẩn khi ngừng cuộn.</p>
 ]]></description>
             <enclosure url="https://github.com/hnaht95/ping-dist/releases/download/v2.19.5/Ping-2.19.5.zip" length="2290815" type="application/octet-stream" sparkle:edSignature="ZpZrFh10uGbWLuM1HJQdzQ3xxAaYzTteyogToWEQRDQ4CgGLh5bCjCLoyxGvEJFui4NTKwv9ZLYN/PHnx7S5CA=="/>
-        </item>
-        <item>
-            <title>2.19.4</title>
-            <pubDate>Thu, 20 Aug 2026 17:20:45 +0700</pubDate>
-            <sparkle:version>2.19.4</sparkle:version>
-            <sparkle:shortVersionString>2.19.4</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<h3>Sửa lỗi</h3>
-<ul>
-<li>Dải nền cuối tuần bị lồi lõm khi thứ 7 đi làm cách tuần</li>
-<li>Thanh cuộn ở khung nội dung ngày còn khung nền, giờ sạch như các tab khác</li>
-</ul>
-]]></description>
-            <enclosure url="https://github.com/hnaht95/ping-dist/releases/download/v2.19.4/Ping-2.19.4.zip" length="2288452" type="application/octet-stream" sparkle:edSignature="YbYNO/80F0F2uQd41pGSqgDMcxI/bFyKwB7GnEXNLiB7m7/t/uHqc07jYu2BQJa91ah5kW1S31Cohz6bSmE3CQ=="/>
         </item>
     </channel>
 </rss>
