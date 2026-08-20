@@ -3,6 +3,17 @@
     <channel>
         <title>Ping</title>
         <item>
+            <title>2.19.2</title>
+            <pubDate>Thu, 20 Aug 2026 17:09:02 +0700</pubDate>
+            <sparkle:version>2.19.2</sparkle:version>
+            <sparkle:shortVersionString>2.19.2</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<h3>Sửa lỗi</h3>
+<p>Ba kiểu lịch cuối tuần trong menu chuột phải bị tích được cả ba cùng lúc. Giờ chọn một cái thì hai cái kia tắt theo.</p>
+]]></description>
+            <enclosure url="https://github.com/hnaht95/ping-dist/releases/download/v2.19.2/Ping-2.19.2.zip" length="2301249" type="application/octet-stream" sparkle:edSignature="78DVn7dhZ5LAxWJ8QzFMcau9qPn2WQdTWW0kDQyOfPGMBicvimWGJ0KHPkptVuRqu/bS9kiYiGnrVxLQTE2MCQ=="/>
+        </item>
+        <item>
             <title>2.19.1</title>
             <pubDate>Thu, 20 Aug 2026 17:03:07 +0700</pubDate>
             <sparkle:version>2.19.1</sparkle:version>
