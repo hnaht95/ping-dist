@@ -1,0 +1,20 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>Ping</title>
+        <item>
+            <title>2.19.0</title>
+            <pubDate>Thu, 20 Aug 2026 16:52:25 +0700</pubDate>
+            <sparkle:version>2.19.0</sparkle:version>
+            <sparkle:shortVersionString>2.19.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<h3>Tự cập nhật</h3>
+<p>Từ bản này Ping tự kiểm tra bản mới. Muốn kiểm tay thì chuột phải vào icon menu bar rồi chọn <b>Kiểm tra bản mới…</b></p>
+<h3>Lịch cuối tuần linh hoạt</h3>
+<p>Thứ 7 và chủ nhật đặt riêng từng ngày: nghỉ hết, đi làm hết, hoặc cách tuần. Chuột phải một ngày cuối tuần trên lịch để đổi, hoặc đặt riêng cho đúng hôm đó.</p>
+<h3>Logo mới</h3>
+]]></description>
+            <enclosure url="https://github.com/hnaht95/ping-dist/releases/download/v2.19.0/Ping-2.19.0.zip" length="2290407" type="application/octet-stream" sparkle:edSignature="tJtQw4NZSl8GsE/6qzqTJITw48aRK5WIcnv64dpj7oS22gefesjydiU626k57RGsAgeHEO12yjsC9igLEKk2Cg=="/>
+        </item>
+    </channel>
+</rss>
